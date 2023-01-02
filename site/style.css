@@ -30,7 +30,8 @@ body{
 
 #photosbar{
 	background-color: #C1792D;
-	margin:0px auto;
+	margin: 0px auto;
+	width:85%;
 }
 
 #picbar{
@@ -39,7 +40,7 @@ body{
 }
 
 #picbar img{
-	width:32%;
+	width:30%;
 	height:350px;
 	margin-right:12px;
 }
