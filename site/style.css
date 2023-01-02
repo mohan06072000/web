@@ -14,12 +14,6 @@ body{
 	height:50px;
 }
 
-#container{
-	width:90%;
-	margin: 0px auto;
-	height: 700px;
-}
-
 #secondbar ul{
 	float: right;
 }
@@ -36,16 +30,18 @@ body{
 
 #photosbar{
 	background-color: #C1792D;
+	margin:0px auto;
 }
 
 #picbar{
 	float:left;
+	margin:0px auto;
 }
 
 #picbar img{
 	width:32%;
 	height:350px;
-	margin-right:15px;
+	margin-right:12px;
 }
 
 #title{
@@ -74,6 +70,7 @@ body{
 }
 
 #cover{
+	margin-top:400px;
 	margin:0px auto;
 	width:60%;
 	height:800px;
