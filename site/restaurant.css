@@ -39,27 +39,38 @@ body{
 
 #subtitle{
 	text-align: center;
-	font-size: 50px;
+	font-size: 30px;
 }
 
 #menu{
 	margin:0px auto;
-	width:60%;
-	height:80px;
+	width:30%;
+	height:50px;
 	background-color: #C1792D;
 	color: #0F0604;
 	text-align: center;
-	font-size: 50px;
+	font-size: 20px;
 	padding:10px;
 }
 
 #cover{
 	margin-top:400px;
 	margin:0px auto;
-	width:60%;
-	height:800px;
+	width:50%;
+	height:350px;
 }
 #cover img{
-	width:100%;
+	width:60%;
 	height:100%;
+	margin-left:180px;
+}
+
+#foot{
+	margin-top:100px;
+	background-color: #C1792D; 
+	height: 50px;
+	color: #0F0604;
+	text-align: center;
+	font-size: 15px;
+	padding:15px;
 }
