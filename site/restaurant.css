@@ -1,6 +1,4 @@
 body{
-	margin:0;
-	padding:0;
 	background-color: #0F0604;
 	color:#C1792D;
 
@@ -14,6 +12,7 @@ body{
 	height:50px;
 }
 
+
 #secondbar ul{
 	float: right;
 }
@@ -26,30 +25,8 @@ body{
 
 #secondbar ul li a{
 	color: #C1792D;
-	text-decoration: none;
 }
 
-#secondbar ul li a:hover{
-	text-decoration: underline  #C1792D;
-
-}
-
-#photosbar{
-	background-color: #C1792D;
-	margin: 0px auto;
-	width:85%;
-}
-
-#picbar{
-	float:left;
-	margin:0px auto;
-}
-
-#picbar img{
-	width:30%;
-	height:350px;
-	margin-right:12px;
-}
 
 #title{
 	text-align: center;
